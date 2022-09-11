@@ -2,15 +2,18 @@
 
 
 html{
-  background-color: black;
-
-
+  
+  background-image: url(image/forest.jfif);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
 div{
-  color: blue;
-  background-color: black;
+  color: rgb(0, 0, 0);
+  text-decoration: wavy;
+  font-weight: bolder;
+  font-size: large;
   text-align: center;
 }
 .title{
@@ -27,12 +30,12 @@ div{
 }
 
 button{
-  background-color: royalBlue;
+  
   border:none;
-  color: darkblue
+  color: rgb(0, 0, 0)
 
 }
 #colorpicker{
-  background-color: royalBlue;
+  background-color: rgb(0, 0, 0);
   border: none
 }
