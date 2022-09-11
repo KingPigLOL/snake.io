@@ -1,0 +1,38 @@
+
+
+
+html{
+  background-color: black;
+
+
+}
+
+
+div{
+  color: blue;
+  background-color: black;
+  text-align: center;
+}
+.title{
+  width: 50%;
+  margin: auto;
+}
+.gamebox{
+  width: 50%;
+  margin: auto;
+}
+.databox{
+  width: 50%;
+  margin: auto;
+}
+
+button{
+  background-color: royalBlue;
+  border:none;
+  color: darkblue
+
+}
+#colorpicker{
+  background-color: royalBlue;
+  border: none
+}
